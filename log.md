@@ -16,3 +16,12 @@
 
 **Link to work:** [No work Done!](https://twitter.com/QuswarAbid/status/826711187198976000)
 
+
+### Day 1: February 2, 2017
+
+**Today's Progress**: Day1: Finally 'Started' with my first project. It was a tribute page to Dr. Abdus Salam as a part of @freeCodeCamp challenge. #100DaysOfCode
+
+**Thoughts:** [Awesome it is!](https://twitter.com/QuswarAbid/status/827151483917500416)
+
+**Link to work:** [A tribute page to Dr. Abdus Salam](https://codepen.io/quswar/pen/QdmrZG)
+
