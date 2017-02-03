@@ -25,3 +25,11 @@
 
 **Link to work:** [A tribute page to Dr. Abdus Salam](https://codepen.io/quswar/pen/QdmrZG)
 
+
+### Day 2: February 3, 2017
+
+**Today's Progress**: Day(2/100) Started another little project as a part of @freeCodeCamp challenge. #100DaysOfCode. It's about a personal portfolio webpage.
+
+**Thoughts:** [It's not complete yet!](https://twitter.com/QuswarAbid/status/827521731921342465)
+
+**Link to work:** [A personal Portfolio Webpage](http://codepen.io/quswar/pen/YNLrjy)
